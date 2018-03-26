@@ -3,6 +3,8 @@
 Created on Wed Mar 21 16:55:53 2018
 
 @author: Sirius
+
+changes made
 """
 
 # An example from tensorflow website
